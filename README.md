@@ -1,0 +1,1 @@
+# js-node-manifest-schema-definition
