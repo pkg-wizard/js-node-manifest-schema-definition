@@ -1,4 +1,4 @@
-const devConfigForTransform = require('developer-workbench-config');
+const devConfigForTransform = require('js-node-developer-workbench-config');
 const lodashForTransform = require('lodash');
 const fileSysForTransform = require('fs');
 

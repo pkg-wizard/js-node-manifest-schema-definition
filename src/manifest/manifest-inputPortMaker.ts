@@ -1,4 +1,4 @@
-const devConfig = require('developer-workbench-config');
+const devConfig = require('js-node-developer-workbench-config');
 const lodash = require('lodash');
 const fileSys = require('fs');
 

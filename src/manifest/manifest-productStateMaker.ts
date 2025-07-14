@@ -1,4 +1,4 @@
-const config = require('developer-workbench-config');
+const config = require('js-node-developer-workbench-config');
 // eslint-disable-next-line @typescript-eslint/naming-convention
 const _ = require('lodash');
 const fs = require('fs');
